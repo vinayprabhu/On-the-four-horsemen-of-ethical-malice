@@ -12,3 +12,6 @@ _The thawing of the AI winter and the subsequent deep learning revolution has be
 - Sycophantic tech-journalism. 
 
 _In this talk, we will explore specific examples in each of these categories with a strong focus on computer vision. The goal of this talk is to not just demonstrate the widespread usage of these datasets and models, but to also elicit a commitment from the attending scholars to either not use these datasets or models, or to insert an ethical caveat in case of unavoidable usage._
+
+[Slides] (https://bit.ly/2WvkVOR)
+[Video] (https://youtu.be/hpA67iDxNGU)
