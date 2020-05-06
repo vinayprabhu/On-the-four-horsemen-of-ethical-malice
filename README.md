@@ -1,4 +1,5 @@
 # On-the-four-horsemen-of-ethical-malice
+
 This is the repo that will host all the materials used for my Stanford HAI talk on April 17, 2020 - 11:00 AM titled:
 
 _On the four horsemen of ethical malice in peer reviewed machine learning literature_
@@ -15,3 +16,4 @@ _In this talk, we will explore specific examples in each of these categories wit
 
 - [Slides](https://bit.ly/2WvkVOR)
 - [Video](https://youtu.be/hpA67iDxNGU)
+![Talk](/chrome_8ETbmxVtwA.png)
